@@ -1,0 +1,9 @@
+Daftar Baru:
+1. Abc
+- 123
+2. Bcd
+- 234
+3. Vwx
+- 909
+4. Xyz
+- 999
