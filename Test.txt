@@ -1,0 +1,17 @@
+Daftar
+- Senin
+  Belajar Web 09.00AM - 11.00AM
+- Selasa
+  Belajar Web 09.00AM - 11.00AM
+  Belajar C++ 02.00PM - 06.00PM
+- Rabu
+  Belajar Web 09.00AM - 11.00AM
+- Kamis
+  Belajar Web 09.00AM - 11.00AM
+  Belajar C++ 02.00PM - 06.00PM
+- Jumat
+  Meet Komunitas time not set
+- Sabtu
+  Bebas
+- Minggu
+  Bebas
